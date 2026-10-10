@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/4. Leitura de 52 livros no ano/4.1 Geral.md",
+                "file": "English/3. Reading in English Estratégias para uma Leitura Fluida em Inglês - GoKursos/3.1. Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Geral"
+              "title": "3.1. Geral"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -182,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45756af9d66e8685",
+  "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "English/4. Leitura de 52 livros no ano/4.1 Geral.md",
     "English/4. Leitura de 52 livros no ano",
     "English/1. Geral/1.1. Geral.md",
     "English/0. Inbox/0.1. Inbox.md",
@@ -200,11 +203,9 @@
     "ESPANHOL/attachments/em_breve_tecnicas_para_neutralizar_o_portunholpdf.pdf",
     "ESPANHOL/attachments",
     "ESPANHOL",
-    "English/4. Leitura de 52 livros no ano/4.1 Geral.md",
     "().md",
     "English",
     "6. Programação/Expressões regulares/attachments/Pasted image 20260615163922.png",
-    "6. Programação/Expressões regulares/attachments",
     "6. Programação/Expressões regulares/2. TABELA DE CARACTERES ASCII.md",
     "6. Programação/Expressões regulares/Sem título.md",
     "6. Programação/Expressões regulares/1. Metacaracteres.md",
