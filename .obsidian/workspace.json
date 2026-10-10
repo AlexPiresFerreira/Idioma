@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/3. Reading in English Estratégias para uma Leitura Fluida em Inglês - GoKursos/3.1. Geral.md",
+                "file": "English/2. Reading in English/2.1. Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1. Geral"
+              "title": "2.1. Geral"
+            }
+          },
+          {
+            "id": "b0b993aef54b506c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/2. Reading in English/A1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 558.5,
+    "collapsed": true
   },
   "right": {
     "id": "68e35b4f75b290ae",
@@ -184,19 +200,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b848a1215792fa32",
+  "active": "b0b993aef54b506c",
   "lastOpenFiles": [
+    "English/2. Reading in English/2.1. Geral.md",
+    "English/2. Reading in English/A1.md",
+    "Sem título",
+    "English/3. Reading in English Estratégias para uma Leitura Fluida em Inglês - GoKursos/3.1. Geral.md",
+    "English/3. Reading in English Estratégias para uma Leitura Fluida em Inglês - GoKursos/3.2. Aula.md",
     "English/4. Leitura de 52 livros no ano/4.1 Geral.md",
     "English/4. Leitura de 52 livros no ano",
     "English/1. Geral/1.1. Geral.md",
     "English/0. Inbox/0.1. Inbox.md",
     "English/1. Geral",
     "English/1. Geral.md",
-    "English/3. Reading in English Estratégias para uma Leitura Fluida em Inglês - GoKursos/3.1. Geral.md",
     "English/0. Inbox",
     "English/3. Reading in English Estratégias para uma Leitura Fluida em Inglês - GoKursos",
-    "English/2. Inglês Instrumental – Estratégias de leitura - UEMA/2.1. Geral.md",
-    "English/2. Inglês Instrumental – Estratégias de leitura - UEMA",
+    "English/2. Reading in English",
     "ESPANHOL/1. Livro.md",
     "ESPANHOL/attachments/Alicia en el pais de las maravillas.pdf",
     "ESPANHOL/0. Geral.md",
@@ -204,7 +223,6 @@
     "ESPANHOL/attachments",
     "ESPANHOL",
     "().md",
-    "English",
     "6. Programação/Expressões regulares/attachments/Pasted image 20260615163922.png",
     "6. Programação/Expressões regulares/2. TABELA DE CARACTERES ASCII.md",
     "6. Programação/Expressões regulares/Sem título.md",
@@ -221,7 +239,6 @@
     "6. Programação/Python/1. Bibliotecas/1.4. pandas.md",
     "6. Programação/Python/18. Tratamento de arquivo.md",
     "6. Programação/Python/18..md",
-    "6. Programação/Python/Sem título.md",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144451.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144443.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144435.png",
