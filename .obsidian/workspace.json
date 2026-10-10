@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/2. Reading in English/A1.md",
+                "file": "English/2. Reading in English/A3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A1"
+              "title": "A3"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5,
-    "collapsed": true
+    "width": 558.5
   },
   "right": {
     "id": "68e35b4f75b290ae",
@@ -202,8 +201,10 @@
   },
   "active": "b0b993aef54b506c",
   "lastOpenFiles": [
-    "English/2. Reading in English/2.1. Geral.md",
+    "English/2. Reading in English/A2.md",
+    "English/2. Reading in English/A3.md",
     "English/2. Reading in English/A1.md",
+    "English/2. Reading in English/2.1. Geral.md",
     "Sem título",
     "English/3. Reading in English Estratégias para uma Leitura Fluida em Inglês - GoKursos/3.1. Geral.md",
     "English/3. Reading in English Estratégias para uma Leitura Fluida em Inglês - GoKursos/3.2. Aula.md",
@@ -237,8 +238,6 @@
     "6. Programação/Python/1. Bibliotecas/1.6. Socket.md",
     "6. Programação/Python/1. Bibliotecas/1.5. PyPDF2.md",
     "6. Programação/Python/1. Bibliotecas/1.4. pandas.md",
-    "6. Programação/Python/18. Tratamento de arquivo.md",
-    "6. Programação/Python/18..md",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144451.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144443.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144435.png",
